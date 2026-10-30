@@ -1,0 +1,1335 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR|CANAL+ SPORT SD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CANAL+SPORT.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/73993
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR|CANAL+ SPORT HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/CANALSPORT.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/5914
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR|CANAL+ SPORT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnYv2wMX1v-QxZzhQgdgBeEp1eQnXCHfjyCTfmsa1670UMXG-tabml0eL" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/6421
+#EXTINF:-1 tvg-id="" tvg-name="FR|CANAL+ SPORT 360 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20hd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/177678
+#EXTINF:-1 tvg-id="" tvg-name="FR|CANAL+ SPORT 360 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANALFOOT/canal%20360%20fhd.png" group-title="FR| FRANCE SPORTS",FR|CANAL+ SPORT 360 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/177677
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR|CANAL+  SPORT FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+fr/CANAL+SPORT.png" group-title="FR| FRANCE SPORTS",FR|CANAL+  SPORT FHD (H.265)
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47969
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR|EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/EUROSPORT1.png" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/5885
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR|EUROSPORT 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtx8HN_PTxKZ7M4CDXCrmoXmbvO7m94C8r_PODsQvYXqk_FMvUcIrrkqM" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/6402
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR|EUROSPORT 1 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/EuroSport%20%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f.png" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 1 FHD (H.265)
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47987
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR|EUROSPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/5886
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR|EUROSPORT 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPeuv8n2mUl3X3ujCwG2B5QKWL-YwLYj_rfVGJoawyPuhoje_FW8rD1WF" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/6401
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR|EUROSPORT 2 FHD (H.265)" tvg-logo="http://kinglogo.newtvhd.com/logoo/CANAL+/EuroSport%202.png" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 2 FHD (H.265)
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47986
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR|EUROSPORT 360 1 HD" tvg-logo="https://live.staticflickr.com/65535/51105765815_84a6ea7631.jpg" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 360 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/128920
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR|EUROSPORT 360 2 HD" tvg-logo="https://live.staticflickr.com/65535/51104734014_cd85f13f6f.jpg" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 360 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/128921
+#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR|EUROSPORT 360 3 HD" tvg-logo="https://live.staticflickr.com/65535/51104892093_6d17f45b3c.jpg" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 360 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/128922
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR|EUROSPORT 360 4 HD" tvg-logo="https://live.staticflickr.com/65535/51104750787_5a0990a0e5.jpg" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 360 4 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/128923
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR|EUROSPORT 360 5 HD" tvg-logo="https://live.staticflickr.com/65535/51104750792_6450233dfa.jpg" group-title="FR| FRANCE SPORTS",FR|EUROSPORT 360 5 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/128924
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 1 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249768
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 2 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249769
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 3 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249770
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 4 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 4 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249771
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 5 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 5 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249772
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 6 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 6 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249773
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 7 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 7 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249775
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 8 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 8 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249776
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 9 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 9 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249777
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA LIGA 10 HD" tvg-logo="" group-title="FR| DISNEY+ LA LIGA HD - FHD",FR| LA LIGA 10 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/249778
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 1 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250714
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 1 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250713
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 2 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250716
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 2 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250715
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 3 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 3 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250718
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 3 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250717
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 4 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 4 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250719
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 4 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 4 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250720
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 5 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 5 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250722
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 5 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 5 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250721
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 6 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 6 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250724
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 6 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 6 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250723
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 7 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 7 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250726
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 7 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 7 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250725
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 8 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 8 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250728
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 8 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 8 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250727
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 9 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 9 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250730
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 9 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 9 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250729
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 10 FHD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 10 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250732
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LALIGA 10 HD" tvg-logo="" group-title="FR| DAZN LA LIGA HD - FHD",FR| DAZN LALIGA 10 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250731
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 1 FR FHD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN 1 FR FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250105
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 1 FR HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN 1 FR HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250106
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 2 FR FHD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN 2 FR FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250107
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 2 FR HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN 2 FR HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250108
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 1HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250109
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 2HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250110
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 3HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 3HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250111
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 4HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 4HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250114
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 5HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 5HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250113
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN LIGUE1 6HD" tvg-logo="" group-title="FR| DAZN HD - FHD",FR| DAZN LIGUE1 6HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250112
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORTS 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUobtewLEL_Xky9Ck9yaaqdpCSFfm7OHHH6FASNPeR76Z5TKKr5WXj_wf" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORTS 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/13420
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORTS 1HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUobtewLEL_Xky9Ck9yaaqdpCSFfm7OHHH6FASNPeR76Z5TKKr5WXj_wf" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORTS 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/9076
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORT 1  FHD" tvg-logo="https://www7.0zz0.com/2020/04/22/18/566688734.png" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORT 1  FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/75217
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORT 2HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEoDFlHpcY4yVg-40vVkMUq2Ymp-FjS6RNKpJnlSEjoHnZMwH9LpBctLMw" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORT 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/9075
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH2V09Srh5IhL6ddR9l_uRFD7qnE5DuNJm8M6nsenwyQ4eH68aQizbJrfu" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORTS 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/13419
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN SPORT 2  FHD" tvg-logo="https://www7.0zz0.com/2020/04/22/18/845069491.png" group-title="BE| BELGIUM SPORTS",BE|DAZN SPORT 2  FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/75218
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN PRO LEAGUE 1HD" tvg-logo="vlc media player" group-title="BE| BELGIUM SPORTS",BE|DAZN PRO LEAGUE 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124849
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN PRO LEAGUE 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/PlaySports_fichiers/ELEVEN-PRO-LEAGUE.png" group-title="BE| BELGIUM SPORTS",BE|DAZN PRO LEAGUE 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124850
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN PRO LEAGUE 1HD (NL)" tvg-logo="http://kinglogo.newtvhd.com/logoo/Belgium-Plysport/pickx-sports4K.png" group-title="BE| BELGIUM SPORTS",BE|DAZN PRO LEAGUE 1HD (NL)
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/164889
+#EXTINF:-1 tvg-id="" tvg-name="BE|DAZN PRO LEAGUE 3HD (NL)" tvg-logo="http://kinglogo.newtvhd.com/logoo/Belgium-Plysport/pickx-sports4K.png" group-title="BE| BELGIUM SPORTS",BE|DAZN PRO LEAGUE 3HD (NL)
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/164891
+#EXTINF:-1 tvg-id="" tvg-name="ES| La Ligatv bar FHD ES" tvg-logo="http://showflix.art:5890/images/4c51d7c9cd04e1dc03fb3599684ca862.png" group-title="ES| ESPAÑA DEPORTES",ES| La Ligatv bar FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179931
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+LALIGA BAR TV" tvg-logo="http://showflix.art:5890/images/4c51d7c9cd04e1dc03fb3599684ca862.png" group-title="ES| ESPAÑA DEPORTES",ES| M+LALIGA BAR TV
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179932
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA FHD ES" tvg-logo="http://showflix.art:5890/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179937
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA TV" tvg-logo="http://showflix.art:5890/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA TV
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179938
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LaLiga 1 FHD ES" tvg-logo="http://showflix.art:5890/images/1f0cd502410df52ebf22f93172fda512.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LaLiga 1 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179939
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 1 ES" tvg-logo="http://showflix.art:5890/images/1f0cd502410df52ebf22f93172fda512.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 1 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179940
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 2 FHD" tvg-logo="http://showflix.art:5890/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179941
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 2 ES" tvg-logo="http://showflix.art:5890/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 2 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179942
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 3 FHD ES" tvg-logo="http://showflix.art:5890/images/2a8c65c44862f1ac246cd4b7ada6e21f.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 3 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179943
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 4 ES" tvg-logo="http://showflix.art:5890/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 4 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179944
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 5" tvg-logo="http://showflix.art:5890/images/57a1ed5503fdbcfb89fe652ccbb7cf20.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 5
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179945
+#EXTINF:-1 tvg-id="" tvg-name="ES| Movistar LALIGA 6 ES" tvg-logo="http://showflix.art:5890/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="ES| ESPAÑA DEPORTES",ES| Movistar LALIGA 6 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179946
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT1 FHD ES" tvg-logo="http://showflix.art:5890/images/3e30ce90c5b1d89ae09b7d4c73d8e172.png" group-title="ES| ESPAÑA DEPORTES",ES| EUROSPORT1 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179964
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT1 ES" tvg-logo="http://showflix.art:5890/images/3e30ce90c5b1d89ae09b7d4c73d8e172.png" group-title="ES| ESPAÑA DEPORTES",ES| EUROSPORT1 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179965
+#EXTINF:-1 tvg-id="" tvg-name="ES| EUROSPORT 2HD" tvg-logo="http://showflix.art:5890/images/b1a09d2f3b01fe725a3d60169e214689.png" group-title="ES| ESPAÑA DEPORTES",ES| EUROSPORT 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179966
+#EXTINF:-1 tvg-id="" tvg-name="|ES|#### DAZN SPORT ####|ES| " tvg-logo="" group-title="ES| ESPAÑA DAZN",|ES|#### DAZN SPORT ####|ES| 
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180060
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 1 FHD ES" tvg-logo="http://showflix.art:5890/images/856f28a55effdf8a263d7529ededf9d1.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 1 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180061
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 1 HD ES" tvg-logo="http://showflix.art:5890/images/856f28a55effdf8a263d7529ededf9d1.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 1 HD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180062
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 2 FHD ES" tvg-logo="http://showflix.art:5890/images/bd297c7aad462282082794067e63a4f0.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 2 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180063
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 2 HD ES" tvg-logo="http://showflix.art:5890/images/bd297c7aad462282082794067e63a4f0.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 2 HD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180064
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 3 FHD ES" tvg-logo="http://showflix.art:5890/images/02e0d996fc5cf833688024a809bd5b48.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 3 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180065
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 3 HD ES" tvg-logo="http://showflix.art:5890/images/02e0d996fc5cf833688024a809bd5b48.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 3 HD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180066
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 4 FHD ES" tvg-logo="http://showflix.art:5890/images/60f059dc1f736afbcfd2fdcf9ed2ebe3.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 4 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180067
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN SPORTS 4 HD ES" tvg-logo="http://showflix.art:5890/images/60f059dc1f736afbcfd2fdcf9ed2ebe3.png" group-title="ES| ESPAÑA DAZN",ES| DAZN SPORTS 4 HD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180068
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 FHD ES" tvg-logo="http://showflix.art:5890/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180069
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 HD" tvg-logo="http://showflix.art:5890/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180070
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LALIGA FHD ES" tvg-logo="http://showflix.art:5890/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="ES| ESPAÑA DAZN",ES| DAZN LALIGA FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180071
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LALIGA  ES" tvg-logo="http://showflix.art:5890/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="ES| ESPAÑA DAZN",ES| DAZN LALIGA  ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180072
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LALIGA 2 FHD ES" tvg-logo="http://showflix.art:5890/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="ES| ESPAÑA DAZN",ES| DAZN LALIGA 2 FHD ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180073
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LALIGA 2 ES" tvg-logo="http://showflix.art:5890/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="ES| ESPAÑA DAZN",ES| DAZN LALIGA 2 ES
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180074
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 1 ESPAÑA SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251517
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 1 ESPAÑA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251513
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 1 ESPAÑA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251521
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 1 ESPAÑA HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251525
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 2 ESPAÑA SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251518
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 2 ESPAÑA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251514
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 2 ESPAÑA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251522
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 2 ESPAÑA HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 2 ESPAÑA HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251526
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 3 ESPAÑA SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251519
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 3 ESPAÑA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251515
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 3 ESPAÑA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251523
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 3 ESPAÑA HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 3 ESPAÑA HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251527
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 4 ESPAÑA SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251520
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 4 ESPAÑA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251516
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 4 ESPAÑA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251524
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 4 ESPAÑA HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN 4 ESPAÑA HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251528
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 1 SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251531
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251529
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251533
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 1 HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251535
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 2 SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251532
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251530
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251534
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN LA LIGA 2 HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251536
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 ESPAÑA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251539
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 ESPAÑA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251537
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 ESPAÑA HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251540
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN F1 ESPAÑA SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251538
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN MOTOGP FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN MOTOGP FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251543
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN MOTOGP HD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN MOTOGP HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251541
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN MOTOGP SD" tvg-logo="" group-title="ES| ESPAÑA DAZN",ES| DAZN MOTOGP SD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251542
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 1" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251544
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 2" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251545
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 3" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251546
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 4" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 4
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251547
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 5" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 5
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251548
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 6" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 6
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251549
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 7" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 7
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251550
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 8" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 8
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251551
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN ACB 9" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN ACB 9
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251552
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 01" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 01
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251556
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 02" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 02
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251557
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 03" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 03
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251558
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 04" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 04
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251559
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 05" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 05
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251560
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 06" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 06
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251561
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 07" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 07
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251562
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 08" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 08
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251563
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 09" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 09
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251564
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 10" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 10
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251565
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 11" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 11
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251566
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 12" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 12
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251567
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 13" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 13
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251568
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 14" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 14
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251569
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 15" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 15
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251570
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 16" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 16
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251571
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 17" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 17
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251572
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 18" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 18
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251573
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 19" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 19
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251574
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 20" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 20
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251575
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 21" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 21
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251576
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 22" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 22
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251577
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 23" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 23
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251578
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 24" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 24
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251579
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 25" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 25
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251580
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 26" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 26
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251581
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN 27" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN 27
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251582
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 1 FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN Baloncesto 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251553
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 2 FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN Baloncesto 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251554
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN Baloncesto 3 FHD" tvg-logo="" group-title="ES| ESPAÑA DAZN VIP",ES| DAZN Baloncesto 3 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/251555
+#EXTINF:-1 tvg-id="" tvg-name="ES| FOX SPORTS PREMIUM ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| FOX SPORTS PREMIUM ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165969
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 1 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 1 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165964
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 1 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 1 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165982
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 2 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 2 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165965
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 2 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 2 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165983
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 3 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 3 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165966
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 3 Mx" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 3 Mx
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165984
+#EXTINF:-1 tvg-id="" tvg-name="ES| ESPN ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| ESPN ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165970
+#EXTINF:-1 tvg-id="" tvg-name="ES| ESPN 2 ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| ESPN 2 ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165971
+#EXTINF:-1 tvg-id="" tvg-name="ES| ESPN 3 ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| ESPN 3 ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165972
+#EXTINF:-1 tvg-id="" tvg-name="ES| ESPN+ ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| ESPN+ ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165973
+#EXTINF:-1 tvg-id="" tvg-name="ES| Fox Sports 1 HD ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| Fox Sports 1 HD ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165968
+#EXTINF:-1 tvg-id="" tvg-name="ES| TNT Sports HD ARG" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/1Latinos.png" group-title="ES| ESPAÑA LATINOS",ES| TNT Sports HD ARG
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165975
+#EXTINF:-1 tvg-id="" tvg-name="DE| DAZN 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| DAZN 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180205
+#EXTINF:-1 tvg-id="" tvg-name="DE| DAZN 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| DAZN 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180206
+#EXTINF:-1 tvg-id="" tvg-name="DE| Eurosport 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| Eurosport 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180207
+#EXTINF:-1 tvg-id="" tvg-name="DE| Eurosport 1" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| Eurosport 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180208
+#EXTINF:-1 tvg-id="" tvg-name="DE| Eurosport 2  HD Xtra" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| Eurosport 2  HD Xtra
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180209
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT News FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT News FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180213
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT News" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT News
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180214
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Premier League FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Premier League FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180215
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Premier League" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Premier League
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180216
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Top Event FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Top Event FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180219
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Top Event" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Top Event
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180220
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Golf FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Golf FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180221
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Golf" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Golf
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180222
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Mix FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Mix FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180223
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Mix" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Mix
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180224
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT F1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT F1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180225
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180226
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 1" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180227
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 2 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 2 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180228
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 2 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 2 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180229
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 3 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 3 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180230
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 4 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 4 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180231
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 5 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 5 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180232
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 6 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 6 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180233
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 7 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 7 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180234
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 8 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 8 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180235
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 9 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 9 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180236
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Bundesliga 10 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Bundesliga 10 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180237
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180238
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 1" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180239
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180240
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 2" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180241
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 3 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 3 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180242
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 4 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 4 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180243
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 5HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 5HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180244
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 6 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 6 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180245
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 7 HD | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 7 HD | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180246
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 8 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 8 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180247
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 9 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 9 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180248
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 10 | Match time" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT 10 | Match time
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180249
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT Austria 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/DELOGO/DU+SPORT.png" group-title="DE| SPORT",DE| SKY SPORT Austria 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/180252
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT TENNIS FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT TENNIS FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172291
+#EXTINF:-1 tvg-id="" tvg-name="IT| EUROSPORT 1 HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| EUROSPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253930
+#EXTINF:-1 tvg-id="" tvg-name="IT| EUROSPORT 2 HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| EUROSPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253931
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT 24 HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT 24 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253934
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT CALCIO HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253938
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT F1 HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT F1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253935
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY Sport Golf HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY Sport Golf HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253937
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY Sport Max HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY Sport Max HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253936
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT MOTOGP HD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT MOTOGP HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253939
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT FOOTBALL HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT FOOTBALL HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172190
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ARENA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT ARENA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172193
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT NBA HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT NBA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172196
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT F1 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT F1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172198
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT UNO HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT UNO HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172232
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY Sport Uno HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY Sport Uno HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/153153
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY Sport 24 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20it.png" group-title="IT| CANALI SPORT ITALIA",IT| SKY Sport 24 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/153151
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN ZONA EVENTS 1" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN ZONA EVENTS 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221800
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZNZONA  EVENTS 2" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZNZONA  EVENTS 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221801
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN ZONA EVENTS 3" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN ZONA EVENTS 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221802
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN ZONA EVENTS 4" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN ZONA EVENTS 4
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221803
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN ZONA EVENTS 5" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN ZONA EVENTS 5
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221804
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 6" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 6
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221805
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 7" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 7
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221806
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 8" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 8
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221807
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 9" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 9
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221808
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 10" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 10
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221809
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 11" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 11
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221810
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 12" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 12
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221811
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 13" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 13
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221812
+#EXTINF:-1 tvg-id="" tvg-name="IT| DAZN EVENTS 14" tvg-logo="" group-title="IT| DAZN EVENTS ITALIA",IT| DAZN EVENTS 14
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/221813
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT 24 FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT 24 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253953
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT ARENA FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT ARENA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253950
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT CALCIO FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT CALCIO FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253965
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT F1 FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT F1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253954
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT FOOTBALL FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT FOOTBALL FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253955
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT GOLF FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT GOLF FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253957
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT MOTOGP FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT MOTOGP FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253952
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT NBA FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT NBA FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253951
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT TENNIS FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT TENNIS FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253956
+#EXTINF:-1 tvg-id="" tvg-name="IT| SKY SPORT UNO FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| SKY SPORT UNO FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253949
+#EXTINF:-1 tvg-id="" tvg-name="IT| EUROSPORT 1 FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| EUROSPORT 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253946
+#EXTINF:-1 tvg-id="" tvg-name="IT| EUROSPORT 2 FHD" tvg-logo="" group-title="IT| CANALI SPORT ITALIA",IT| EUROSPORT 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/253947
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Sky%20UK.png" group-title="UK| SPORTS  UK",UK| SKY SPORTS PREMIER LEAGUE HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/100679
+#EXTINF:-1 tvg-id="" tvg-name="UK| Sky Sports Foot 1FHD" tvg-logo="" group-title="",UK| Sky Sports Foot 1FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/112761
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS ACTION" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS ACTION
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237524
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS CRICKET HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS CRICKET HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237526
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS F1" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS F1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237531
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS FOOTBALL" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS FOOTBALL
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237521
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS GOLF HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS GOLF HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237527
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS MAIN EVENT" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS MAIN EVENT
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237518
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS MAIN EVENT 4K UHD" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS MAIN EVENT 4K UHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237519
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS MIX" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS MIX
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237522
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS NEWS" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS NEWS
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237517
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS PLUS" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS PLUS
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237523
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS PREMIER LEAGUE HDR" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS PREMIER LEAGUE HDR
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237520
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS RACING" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS RACING
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237525
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY LALIGA TV" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY LALIGA TV
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237533
+#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS TENNIS" tvg-logo="" group-title="UK| SPORTS  UK",UK|SKY SPORTS TENNIS
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237530
+#EXTINF:-1 tvg-id="" tvg-name="UK|TNT SPORT 1 HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|TNT SPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237535
+#EXTINF:-1 tvg-id="" tvg-name="UK|TNT SPORT 2 HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|TNT SPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237536
+#EXTINF:-1 tvg-id="" tvg-name="UK|TNT SPORT 3 HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|TNT SPORT 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237537
+#EXTINF:-1 tvg-id="" tvg-name="UK|TNT SPORT 4 HD" tvg-logo="" group-title="UK| SPORTS  UK",UK|TNT SPORT 4 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237538
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| ESPN 1 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172693
+#EXTINF:-1 tvg-id="" tvg-name="NL|ESPN SPORTS 1HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaO8BFY4rOmzPGiAgZLF8wp93RKLDab6ahLaiTvUVzoxSs0bweUa9zLqvT" group-title="NL| NETHERLANDS SPORTS",NL|ESPN SPORTS 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47882
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| ESPN 2 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172694
+#EXTINF:-1 tvg-id="" tvg-name="NL|ESPN SPORTS 2HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjSOscOizm7nHSo82cy8aoibgz4B_r790Fg2A8D2o_eqTea6awS_ChD0" group-title="NL| NETHERLANDS SPORTS",NL|ESPN SPORTS 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47881
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 3 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| ESPN 3 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172695
+#EXTINF:-1 tvg-id="" tvg-name="NL|ESPN SPORTS 3HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYUcjCRvIaUVJbwMv8mVLMx3FM5trs3YEL87J_DK79HU7zCW16XIX3UA" group-title="NL| NETHERLANDS SPORTS",NL|ESPN SPORTS 3HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47880
+#EXTINF:-1 tvg-id="" tvg-name="NL| ESPN 4 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| ESPN 4 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172696
+#EXTINF:-1 tvg-id="" tvg-name="NL|ESPN SPORTS 4HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Y2HHszcEL5UxQdhhzYrI0hP06EYIi6dIQksCysvOxvgywLUe4qWI1mM" group-title="NL| NETHERLANDS SPORTS",NL|ESPN SPORTS 4HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47879
+#EXTINF:-1 tvg-id="" tvg-name="NL|Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YVvYce1lv-WH7neiSZQmIGd0xIVRAeYvlOiSOw-5bqmuhcyE6pWeNZo" group-title="NL| NETHERLANDS SPORTS",NL|Eurosport 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47890
+#EXTINF:-1 tvg-id="" tvg-name="NL| EuroSport 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| EuroSport 1 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172706
+#EXTINF:-1 tvg-id="" tvg-name="NL|Eurosport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPeuv8n2mUl3X3ujCwG2B5QKWL-YwLYj_rfVGJoawyPuhoje_FW8rD1WF" group-title="NL| NETHERLANDS SPORTS",NL|Eurosport 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/47889
+#EXTINF:-1 tvg-id="" tvg-name="NL| EuroSport 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/NL%20FHD.png" group-title="NL| NETHERLANDS SPORTS",NL| EuroSport 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/172707
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV NBA
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179116
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV NBA 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179117
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV+ HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV+ HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179118
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV+ 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV+ 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179119
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179120
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 1 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179121
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179122
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 2 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179123
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 3HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179124
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 3 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179125
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 4HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179126
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 4 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179127
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 5HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179128
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| SPORT TV 5 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179129
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179130
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 1 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179131
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179132
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 2 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179133
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 3HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179134
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 3 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179135
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 4HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179136
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 4 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179137
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 5HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179138
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| DAZN 5 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179139
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| EUROSPORT 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179142
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179143
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| EUROSPORT 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179144
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2 4K" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Bortugal%20HD.png" group-title="PT| DESPORTO",PT| EUROSPORT 2 4K
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/179145
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu| Srb: EuroSport 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/EX-YU.png" group-title="EX| EX-YU",Ex-Yu| Srb: EuroSport 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/171347
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu| Srb: EuroSport 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/EX-YU.png" group-title="EX| EX-YU",Ex-Yu| Srb: EuroSport 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/171348
+#EXTINF:-1 tvg-id="" tvg-name="AF|CANAL+ SPORT 1HD" tvg-logo="" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 1HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/232526
+#EXTINF:-1 tvg-id="" tvg-name="AF|CANAL+ SPORT 2HD" tvg-logo="" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 2HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/232527
+#EXTINF:-1 tvg-id="" tvg-name="AF|CANAL+ SPORT 3HD" tvg-logo="" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 3HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/232528
+#EXTINF:-1 tvg-id="" tvg-name="AF|CANAL+ SPORT 4HD" tvg-logo="" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 4HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/232529
+#EXTINF:-1 tvg-id="" tvg-name="AF|CANAL+ SPORT 5HD" tvg-logo="" group-title="AF| CANAL+ AFRIQUE",AF|CANAL+ SPORT 5HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/232530
+#EXTINF:-1 tvg-id="" tvg-name="|UGANDA|  SuperSport Cricket FHD" tvg-logo="" group-title="AF| UGANDA",|UGANDA|  SuperSport Cricket FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184582
+#EXTINF:-1 tvg-id="" tvg-name="|UGANDA|  SuperSport PSL FHD" tvg-logo="" group-title="AF| UGANDA",|UGANDA|  SuperSport PSL FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184583
+#EXTINF:-1 tvg-id="" tvg-name="|UGANDA|  SuperSport Variety 3 FHD" tvg-logo="" group-title="AF| UGANDA",|UGANDA|  SuperSport Variety 3 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184584
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 1 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184677
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 2 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184678
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 3 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184679
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 4 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 4 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184680
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 7 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 7 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184681
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 8 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 8 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184682
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 9 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 9 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184683
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SuperSport 10 HD" tvg-logo="" group-title="AF| AFRICA",|AF| SuperSport 10 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/184684
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 1" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250279
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 2" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250280
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 3" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250282
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 4" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 4
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250278
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 5" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 5
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250284
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 6" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 6
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250283
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN+ 7" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN+ 7
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250281
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN2 HD" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250277
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN8: The Ocho" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN8: The Ocho
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250342
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPNews HD" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPNews HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250275
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPN HD" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPN HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250274
+#EXTINF:-1 tvg-id="" tvg-name="[USA] ESPNU HD" tvg-logo="" group-title="US| USA SPORTS",[USA] ESPNU HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250276
+#EXTINF:-1 tvg-id="" tvg-name="[USA] Fox Sports" tvg-logo="" group-title="US| USA SPORTS",[USA] Fox Sports
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250344
+#EXTINF:-1 tvg-id="" tvg-name="[USA] FOX Sports 1 HD" tvg-logo="" group-title="US| USA SPORTS",[USA] FOX Sports 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250293
+#EXTINF:-1 tvg-id="" tvg-name="[USA] FOX Sports 2 HD" tvg-logo="" group-title="US| USA SPORTS",[USA] FOX Sports 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250302
+#EXTINF:-1 tvg-id="" tvg-name="[USA] DAZN Ringside" tvg-logo="" group-title="US| USA SPORTS",[USA] DAZN Ringside
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250358
+#EXTINF:-1 tvg-id="" tvg-name="[USA] MSG Sportsnet HD" tvg-logo="" group-title="US| USA SPORTS",[USA] MSG Sportsnet HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250314
+#EXTINF:-1 tvg-id="" tvg-name="[USA] Spectrum SportsNet HD" tvg-logo="" group-title="US| USA SPORTS",[USA] Spectrum SportsNet HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250331
+#EXTINF:-1 tvg-id="" tvg-name="[USA] Spectrum SportsNet LA HD" tvg-logo="" group-title="US| USA SPORTS",[USA] Spectrum SportsNet LA HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250330
+#EXTINF:-1 tvg-id="" tvg-name="[USA] SportsNet New York HD" tvg-logo="" group-title="US| USA SPORTS",[USA] SportsNet New York HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250316
+#EXTINF:-1 tvg-id="" tvg-name="[USA] SportsNet Pittsburgh HD" tvg-logo="" group-title="US| USA SPORTS",[USA] SportsNet Pittsburgh HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/250322
+#EXTINF:-1 tvg-id="" tvg-name="|BG| EUROSPORT 1" tvg-logo="" group-title="BG| BULGARIA",|BG| EUROSPORT 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240290
+#EXTINF:-1 tvg-id="" tvg-name="|BG| EUROSPORT 2 HD" tvg-logo="" group-title="BG| BULGARIA",|BG| EUROSPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240291
+#EXTINF:-1 tvg-id="" tvg-name="CA-VIP| Sportsnet East" tvg-logo="" group-title="CA| CANADA VIP",CA-VIP| Sportsnet East
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/236939
+#EXTINF:-1 tvg-id="" tvg-name="CA-VIP| Sportsnet ONE" tvg-logo="" group-title="CA| CANADA VIP",CA-VIP| Sportsnet ONE
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/236963
+#EXTINF:-1 tvg-id="" tvg-name="CA-VIP| Sportsnet Ontario" tvg-logo="" group-title="CA| CANADA VIP",CA-VIP| Sportsnet Ontario
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/236934
+#EXTINF:-1 tvg-id="" tvg-name="CA-VIP| Sportsnet Pacific" tvg-logo="" group-title="CA| CANADA VIP",CA-VIP| Sportsnet Pacific
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/236990
+#EXTINF:-1 tvg-id="" tvg-name="CA-VIP| Sportsnet West" tvg-logo="" group-title="CA| CANADA VIP",CA-VIP| Sportsnet West
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/236962
+#EXTINF:-1 tvg-id="" tvg-name="USA: AT&T Sportsnet South HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",USA: AT&T Sportsnet South HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175767
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet One HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet One HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175768
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet Ontario HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet Ontario HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175769
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet Pacific HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet Pacific HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175770
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet 360 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet 360 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175771
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet East HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet East HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175772
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet West HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet West HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175773
+#EXTINF:-1 tvg-id="" tvg-name="CA|Fox Sports Racing" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Fox Sports Racing
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175792
+#EXTINF:-1 tvg-id="" tvg-name="CA|SPORTSNET PPV" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|SPORTSNET PPV
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175812
+#EXTINF:-1 tvg-id="" tvg-name="CA|ESPN Classic" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|ESPN Classic
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175893
+#EXTINF:-1 tvg-id="" tvg-name="CA|One Soccer" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|One Soccer
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175900
+#EXTINF:-1 tvg-id="" tvg-name="CA|Sportsnet News" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|Sportsnet News
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175904
+#EXTINF:-1 tvg-id="" tvg-name="CA|SPORTSNET WORLD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/canada.png" group-title="CA| CANADA (ENG)",CA|SPORTSNET WORLD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/175905
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Action FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Action FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174033
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Blitz FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Blitz FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174034
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Cricket FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Cricket FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174035
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Football FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Football FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174036
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Golf FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Golf FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174037
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Grandstand FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Grandstand FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174038
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport LaLiga FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport LaLiga FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174039
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Maximo HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Maximo HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174040
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport MotorSport HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport MotorSport HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174041
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Play HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Play HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174042
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Premier League FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Premier League FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174043
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport PSL FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport PSL FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174044
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Rugby FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Rugby FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174045
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Tennis FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Tennis FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174046
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Variety 1 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Variety 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174047
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Variety 2 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Variety 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174048
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Variety 3 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Variety 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174049
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport Variety 4 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport Variety 4 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174050
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SuperSport WWE FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| SuperSport WWE FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174051
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN 2 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| ESPN 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174096
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/DSTV.png" group-title="ZA| (DSTV) SOUTH AFRICA",DSTV| ESPN FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/174097
+#EXTINF:-1 tvg-id="" tvg-name="AU| ESPN 1 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| ESPN 1 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165302
+#EXTINF:-1 tvg-id="" tvg-name="AU| ESPN 2" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| ESPN 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165303
+#EXTINF:-1 tvg-id="" tvg-name="AU| ESPN 2 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| ESPN 2 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165304
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports News FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports News FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165305
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 501" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 501
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165306
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 501 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 501 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165307
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 502" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 502
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165308
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 502 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 502 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165309
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 503 FHD.." tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 503 FHD..
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165311
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 504 FHD.." tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 504 FHD..
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165313
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 505" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 505
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165314
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 505 FHD.." tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 505 FHD..
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165315
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 506" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 506
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165316
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 506 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 506 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165317
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 507" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 507
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165318
+#EXTINF:-1 tvg-id="" tvg-name="AU| Fox Sports 507 FHD" tvg-logo="http://kinglogo.newtvhd.com/logoo/11bouquet/AUSTRALIA.png" group-title="AU| AUSTRALIA",AU| Fox Sports 507 FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165319
+#EXTINF:-1 tvg-id="" tvg-name="PL|EUROSPORT 1 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/POLAND.png" group-title="PL| POLAND",PL|EUROSPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124929
+#EXTINF:-1 tvg-id="" tvg-name="PL|EUROSPORT 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/POLAND.png" group-title="PL| POLAND",PL|EUROSPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124930
+#EXTINF:-1 tvg-id="" tvg-name="PL|ELEVEN SPORTS 4" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/POLAND.png" group-title="PL| POLAND",PL|ELEVEN SPORTS 4
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124978
+#EXTINF:-1 tvg-id="" tvg-name="PL|EUROSPORT 1 HEVC" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/POLAND.png" group-title="PL| POLAND",PL|EUROSPORT 1 HEVC
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/124979
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO WILD HINDI FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI2wZVycqD86Psd9DbKuEhR8mFM5z4_ooc-3UCLw=s900-c-k-c0x00ffffff-no-rj" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO WILD HINDI FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/149752
+#EXTINF:-1 tvg-id="" tvg-name="IN| D2H NAT GEO WILD ENG FHD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQI2wZVycqD86Psd9DbKuEhR8mFM5z4_ooc-3UCLw=s900-c-k-c0x00ffffff-no-rj" group-title="IN| INDIA  D2H FHD",IN| D2H NAT GEO WILD ENG FHD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/149751
+#EXTINF:-1 tvg-id="" tvg-name="IL| YES EUROSPORT 1" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/israel.png" group-title="IL| ISRAEL",IL| YES EUROSPORT 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/145439
+#EXTINF:-1 tvg-id="" tvg-name="IL| YES EUROSPORT 2" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/israel.png" group-title="IL| ISRAEL",IL| YES EUROSPORT 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/145440
+#EXTINF:-1 tvg-id="" tvg-name="RUS| NTV Football 2" tvg-logo="" group-title="RU| RUSSIA",RUS| NTV Football 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235609
+#EXTINF:-1 tvg-id="" tvg-name="RUS| NTV Football 3" tvg-logo="" group-title="RU| RUSSIA",RUS| NTV Football 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235497
+#EXTINF:-1 tvg-id="" tvg-name="RUS| Match Football 3 HD" tvg-logo="" group-title="RU| RUSSIA",RUS| Match Football 3 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235474
+#EXTINF:-1 tvg-id="" tvg-name="RUS| Match Football 2 HD" tvg-logo="" group-title="RU| RUSSIA",RUS| Match Football 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235473
+#EXTINF:-1 tvg-id="" tvg-name="RUS| Match Football 1" tvg-logo="" group-title="RU| RUSSIA",RUS| Match Football 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235472
+#EXTINF:-1 tvg-id="" tvg-name="RUS| EuroSport 1 HD" tvg-logo="" group-title="RU| RUSSIA",RUS| EuroSport 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235470
+#EXTINF:-1 tvg-id="" tvg-name="HU| EuroSport 2 HD" tvg-logo="" group-title="HU| HUNGARY",HU| EuroSport 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/171074
+#EXTINF:-1 tvg-id="" tvg-name="HU| EuroSport 1 HD" tvg-logo="" group-title="HU| HUNGARY",HU| EuroSport 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/171073
+#EXTINF:-1 tvg-id="" tvg-name="NO| EUROSPORT 1 HD" tvg-logo="" group-title="NO| NORWAY",NO| EUROSPORT 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/178241
+#EXTINF:-1 tvg-id="" tvg-name="NO| EUROSPORT 2 HD" tvg-logo="" group-title="NO| NORWAY",NO| EUROSPORT 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/178242
+#EXTINF:-1 tvg-id="" tvg-name="NO| EUROSPORT N HD" tvg-logo="" group-title="NO| NORWAY",NO| EUROSPORT N HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/178243
+#EXTINF:-1 tvg-id="" tvg-name="BR| ESPN 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="BR| BRAZIL",BR| ESPN 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/169408
+#EXTINF:-1 tvg-id="" tvg-name="BR| ESPN HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="BR| BRAZIL",BR| ESPN HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/169410
+#EXTINF:-1 tvg-id="" tvg-name="BR| Fox Sports 2 HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="BR| BRAZIL",BR| Fox Sports 2 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/169414
+#EXTINF:-1 tvg-id="" tvg-name="BR| ESPN Extra HD" tvg-logo="http://kinglogo.newtvhd.com/logoo/bouquet/Brazil.png" group-title="BR| BRAZIL",BR| ESPN Extra HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/169493
+#EXTINF:-1 tvg-id="" tvg-name="PR| ESPN" tvg-logo="" group-title="LA| LATINOS",PR| ESPN
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165506
+#EXTINF:-1 tvg-id="" tvg-name="MX| Fox Sports 3" tvg-logo="" group-title="MX| MEXICO",MX| Fox Sports 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165455
+#EXTINF:-1 tvg-id="" tvg-name="MX| Fox Sports 2" tvg-logo="" group-title="MX| MEXICO",MX| Fox Sports 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165454
+#EXTINF:-1 tvg-id="" tvg-name="MX| Fox Sports 1" tvg-logo="" group-title="MX| MEXICO",MX| Fox Sports 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165453
+#EXTINF:-1 tvg-id="" tvg-name="MX| Espn 3" tvg-logo="" group-title="MX| MEXICO",MX| Espn 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165409
+#EXTINF:-1 tvg-id="" tvg-name="MX| Espn 2" tvg-logo="" group-title="MX| MEXICO",MX| Espn 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165408
+#EXTINF:-1 tvg-id="" tvg-name="MX| ESPN 1" tvg-logo="" group-title="MX| MEXICO",MX| ESPN 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165407
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TNT Sports HD" tvg-logo="" group-title="ARG| ARGENTINA",ARG| TNT Sports HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165367
+#EXTINF:-1 tvg-id="" tvg-name="ARG| Fox Sports 1 HD" tvg-logo="" group-title="ARG| ARGENTINA",ARG| Fox Sports 1 HD
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165357
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN+" tvg-logo="" group-title="ARG| ARGENTINA",ARG| ESPN+
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165356
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 3" tvg-logo="" group-title="ARG| ARGENTINA",ARG| ESPN 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165355
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN 2" tvg-logo="" group-title="ARG| ARGENTINA",ARG| ESPN 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165354
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN" tvg-logo="" group-title="ARG| ARGENTINA",ARG| ESPN
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/165353
+#EXTINF:-1 tvg-id="" tvg-name="Monster Summer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqZuCLfY7EJlkS185vC8zllp4pf.jpg" group-title="(FR-VO) VOD - FAMILY, ADVENTURE, FANTASY, FANTASTIC",Monster Summer (2024)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/237710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Footballeuses à tout prix (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzwSN1x4yhNdoAsfQZRJ76EghNH.jpg" group-title="(FR-VO) VOD - COMEDIE (COMEDY)",Footballeuses à tout prix (2021)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/201680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haunter (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b21oU0UClYuaTTvwJgQB2l8CKlu.jpg" group-title="(FR-VO) VOD - HORREUR (HORROR)",Haunter (2013)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/185881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="بنات عبدالرحمن (2021)" tvg-logo="http://atrupo.com:7070/images/movies/qBhwiD38rSWMpWQjOYmBpucl7L8.jpg" group-title="VOD - أفلام عربية",بنات عبدالرحمن (2021)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/183677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Game  (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sUcLRG3ZwE8JOrCzk3M6GyCsTx.jpg" group-title="(FR-VO) VOD - TOP 100: BEST-OF FILMS > 90s",The Game  (1997)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="المينيونز 2: صعود جرو (2022)" tvg-logo="http://atrupo.com:7070/images//ucLdEGaIFlpIdGlkzYj2OcXbGhz.jpg" group-title="VOD - أفلام أجنبية مترجمة / مدبلجة",المينيونز 2: صعود جرو (2022)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/176939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virtual Revolution - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxB6QUCLcmAgdYbSVhpdKYbTPQA.jpg" group-title="(FR-VO) VOD - ACTION, CRIME",Virtual Revolution - 2016
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/78374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Braven (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/253Bw5I3Zj3e2thCThjO7byEUCL.jpg" group-title="(VO) VOD (ENGLISH)",Braven (2018)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/30711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Footballest (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEPYb9Ojedu9WNs8YecqMGEU2ar.jpg" group-title="(VO) VOD (ENGLISH)",The Footballest (2018)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/79387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L'eté nucléaire (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0Bkh2ZWK2Ua1LOhsm6fxfqUjpw.jpg" group-title="(FR-VO) VOD - THRILLER, POLICIER",L'eté nucléaire (2022)
+http://vivapro.ddno.us:8080/movie/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/178494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SE| VIA SPORT FOOTBALL" tvg-logo="" group-title="SE| SWEDEN",SE| VIA SPORT FOOTBALL
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240986
+#EXTINF:-1 tvg-id="" tvg-name="SE| VIA SPORT FOOTBALL 1" tvg-logo="" group-title="SE| SWEDEN",SE| VIA SPORT FOOTBALL 1
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240987
+#EXTINF:-1 tvg-id="" tvg-name="SE| VIA SPORT FOOTBALL 2" tvg-logo="" group-title="SE| SWEDEN",SE| VIA SPORT FOOTBALL 2
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240988
+#EXTINF:-1 tvg-id="" tvg-name="SE| VIA SPORT FOOTBALL 3" tvg-logo="" group-title="SE| SWEDEN",SE| VIA SPORT FOOTBALL 3
+http://vivapro.ddno.us:8080/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/240989
+#EXTINF:-1 tvg-id="" tvg-name="SUR TES TRACES (US) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/bkhOGVJ6yHducLxPpejPspCbMZw.jpg" group-title="SUR TES TRACES (US)",SUR TES TRACES (US) S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/248775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STARGATE SG-1 (CA) S07 E16" tvg-logo="https://image.tmdb.org/t/p/w300/ezF9Uulqi4IC1ZDxpWqUcL2rSxn.jpg" group-title="STARGATE SG-1 (CA)",STARGATE SG-1 (CA) S07 E16
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/125470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BLEACH (JP) S01 E62" tvg-logo="https://image.tmdb.org/t/p/w185/e2kKL7yZRrucl5BYBKO885qZRO8.jpg" group-title="BLEACH (JP)",BLEACH (JP) S01 E62
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/245072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HUDSON & REX (CA) S02 E11" tvg-logo="https://image.tmdb.org/t/p/w185/12iavupH148TmCjkZcZgMuClDhd.jpg" group-title="HUDSON & REX (CA)",HUDSON & REX (CA) S02 E11
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/235127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CALL ME FITZ (CA) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/68BKcUcl0sj0nC619Yio4WLZj1f.jpg" group-title="CALL ME FITZ (CA)",CALL ME FITZ (CA) S03 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/230714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BEYOND (US) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/7WSLwKgUWu5Bp4XoRAuCldfZX9S.jpg" group-title="BEYOND (US)",BEYOND (US) S01 E09
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/230621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BANSHEE (US) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/zOAgsCe4dt5CtoUClKpnTzX0z8B.jpg" group-title="BANSHEE (US)",BANSHEE (US) S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/230333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE PITT (US) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/vHxY3PCwAbdaZNcMuVz2TR8ba7I.jpg" group-title="THE PITT (US)",THE PITT (US) S02 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/241091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE SIMPSONS (LES SIMPSONS) S17 E17" tvg-logo="https://image.tmdb.org/t/p/w185/gsqN6uCLpMg1dPaNmtTkdps3mEU.jpg" group-title="THE SIMPSONS (LES SIMPSONS)",THE SIMPSONS (LES SIMPSONS) S17 E17
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/225003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) في الداخل S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/qXuYIotiUMa0wWUclE1z1yJD2gv.jpg" group-title="(TR) في الداخل",(TR) في الداخل S01 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/223338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DREAMING OF A FREAKING FAIRY TALE (KR) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/uL8TIP7NT87AuE3f90uCLsLCWwQ.jpg" group-title="DREAMING OF A FREAKING FAIRY TALE (KR)",DREAMING OF A FREAKING FAIRY TALE (KR) S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/220036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/gLiZLVDebXJai0I4NOOACLtyN82.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/gPu1HtKQVket2S1TOSdfRCXIn1w.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E02
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/l3fBurTs7ISMVPflVCYgGQQfJmX.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/g2XGZJ41fXXwbrWBXpW0NWDhBiE.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E04
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/eJ8qnP3sYWk2cnYD9Wo4NxslPR4.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/7qEpUbdwAlNN82cqjJvjAoLS8I7.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/kifEJ1XOhJaXdSK1yDTFqn2dZAr.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA : AUX PREMIÈRES LOGES (ES) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/h2iln7KfKfWYGmb5ED7YuPkDaNB.jpg" group-title="LALIGA : AUX PREMIÈRES LOGES (ES)",LALIGA : AUX PREMIÈRES LOGES (ES) S01 E08
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/217216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ABBOTT ELEMENTARY (US) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/28KaMUCLsZ9q9APk8WAUmxyn13f.jpg" group-title="ABBOTT ELEMENTARY (US)",ABBOTT ELEMENTARY (US) S01 E09
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/211262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E01" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E02" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E02
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E03" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E04" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E04
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E05" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E06" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E07" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E08" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E08
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E09" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E09
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E10" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E10
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E11" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E11
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E12" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E12
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E13" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E13
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E14" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E14
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(LB) درجة درجة S01 E15" tvg-logo="http://atrupo.com:7070/images/series/9iNoWoqF8ciqBdcVnQsguclQNdn_small.jpg" group-title="(LB) درجة درجة",(LB) درجة درجة S01 E15
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/209827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SLOW HORSES (GB) S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/riuPXYv9UzMumjVyapTOsxGUcL4.jpg" group-title="SLOW HORSES (GB)",SLOW HORSES (GB) S04 E02
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/218863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE AFTERPARTY (US) S02 E06" tvg-logo="http://atrupo.com:7070/images/series/rKCZVyD3RDGuCl9NfMt7K9hwCdd.jpg" group-title="THE AFTERPARTY (US)",THE AFTERPARTY (US) S02 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/198997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAS VEGAS (US) S02 E03" tvg-logo="http://atrupo.com:7070/images/series/5cdruIsEltUcLiPpTzwuSFdi5Lg.jpg" group-title="LAS VEGAS (US)",LAS VEGAS (US) S02 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/193831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEADLOCH (AU) S01 E03" tvg-logo="http://atrupo.com:7070/images/series/6H422ecsTVm1CnupZ7UclzAKiXk.jpg" group-title="DEADLOCH (AU)",DEADLOCH (AU) S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/193583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SANCTUARY (CA) S01 E05" tvg-logo="http://atrupo.com:7070/images/series/rdrVMJPrjAck6A0ObsGyUClqcP0.jpg" group-title="SANCTUARY (CA)",SANCTUARY (CA) S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/192475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NEW YORK : UNITÉ SPÉCIALE (US) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/2FyUcLgkoBvuOEJJpENkFzuPwAn.jpg" group-title="NEW YORK : UNITÉ SPÉCIALE (US)",NEW YORK : UNITÉ SPÉCIALE (US) S01 E17
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/190665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TULSA KING (US) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cWFAqz2f4AucLuVc3qIj3fPYjsK.jpg" group-title="TULSA KING (US)",TULSA KING (US) S02 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/220099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E01" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E02" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E02
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E03" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E04" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E04
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E05" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E06" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E07" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E08" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E08
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E09" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E09
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E10" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E10
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E11" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E11
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E12" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E12
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E13" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E13
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E14" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E14
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E15" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E15
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E16" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E16
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E17" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E17
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E18" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E18
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E19" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E19
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E20" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E20
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E21" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E21
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E22" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E22
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E23" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E23
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E24" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E24
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E25" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E25
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E26" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E26
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E27" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E27
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E28" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E28
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E29" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E29
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E30" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E30
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E31" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E31
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E32" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E32
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E33" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E33
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E34" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E34
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E35" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E35
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E36" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E36
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E37" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E37
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E38" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E38
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E39" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E39
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E40" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E40
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E41" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E41
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E42" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E42
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E43" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E43
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E44" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E44
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E45" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E45
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E46" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E46
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E47" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E47
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E48" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E48
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E49" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E49
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E50" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E50
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E51" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E51
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E52" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E52
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E53" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E53
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E54" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E54
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E55" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E55
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E56" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E56
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E57" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E57
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E58" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E58
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E59" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E59
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E60" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E60
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E61" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E61
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E62" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E62
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E63" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E63
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E64" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E64
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E65" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E65
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E66" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E66
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E67" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E67
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E68" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E68
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E69" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E69
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E70" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E70
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E71" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E71
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E72" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E72
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E73" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E73
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E74" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E74
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E75" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E75
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E76" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E76
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E77" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E77
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E78" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E78
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E79" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E79
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E80" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E80
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E81" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E81
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E82" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E82
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E83" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E83
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E84" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E84
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E85" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E85
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E86" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E86
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E87" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E87
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E88" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E88
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E89" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E89
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E90" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E90
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E91" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E91
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E92" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E92
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E93" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E93
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E94" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E94
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E95" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E95
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E96" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E96
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E97" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E97
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E98" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E98
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E99" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E99
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E100" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E100
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E101" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E101
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E102" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E102
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E103" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E103
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E104" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E104
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E105" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E105
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E106" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E106
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E107" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E107
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E108" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E108
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E109" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E109
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E110" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E110
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(TR) عودة الروح S01 E111" tvg-logo="http://kingtv.net:7070/images/series/4dhFuclHCLTA4KVGKmq5vuzBBGQ_small.jpg" group-title="(TR) عودة الروح",(TR) عودة الروح S01 E111
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/181714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="COLUMBO (US) S08 E03" tvg-logo="http://atrupo.com:7070/images/series/auClRvdDTDtmjIDbRllyJzBaYms.jpg" group-title="COLUMBO (US)",COLUMBO (US) S08 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/182016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MALCOLM IN THE MIDDLE (US) S05 E07" tvg-logo="http://atrupo.com:7070/images/series/j72YkQfZ8TfodKq4H4h2uUclvBR.jpg" group-title="MALCOLM IN THE MIDDLE (US)",MALCOLM IN THE MIDDLE (US) S05 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/201801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MADAM SECRETARY S04 E07" tvg-logo="http://kingtv.net:7070/images/jiXYVH7DgYiTG2bufbZHTuUCLC0_small.jpg" group-title="MADAM SECRETARY",MADAM SECRETARY S04 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/54221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE BLACKLIST (US) S10 E20" tvg-logo="http://atrupo.com:7070/images/series/64ozLMOwOlQ2AUCLCfNkAVQUNay.jpg" group-title="THE BLACKLIST (US)",THE BLACKLIST (US) S10 E20
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/197644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13 REASONS WHY S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25D1v9leZsvEuCln7oPB5f4qCgc.jpg" group-title="13 REASONS WHY",13 REASONS WHY S01 E08
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/88382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyUCL26zwN6pluHPw8Cf3wvnLUr.jpg" group-title="SUPERNATURAL",SUPERNATURAL S06 E15
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/112531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SUPERNATURAL S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W3SKMKw73jUclhMvyfD40TiL7V.jpg" group-title="SUPERNATURAL",SUPERNATURAL S10 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/112610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E01
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E02
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E03
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E04" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E04
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E05" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E06" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E07" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E07
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E08" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E08
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E09" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E09
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E10" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E10
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E11" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E11
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E12" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E12
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E13" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E13
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E14" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E14
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E15" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E15
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E16" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E16
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E17" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E17
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E18" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E18
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E19" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E19
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E20" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E20
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E21" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E21
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E22" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E22
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E23" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E23
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E24" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E24
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E25" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E25
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E26" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E26
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E27" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E27
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E28" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E28
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E29" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E29
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E30" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E30
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E31" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E31
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E32" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E32
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="(SY) الإجتياح S01 E33" tvg-logo="https://image.tmdb.org/t/p/w500/qCWI6NEJ0koUaBa72zrr1wUclRz.jpg" group-title="(SY) الإجتياح",(SY) الإجتياح S01 E33
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/90428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLINDSPOT (US) S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulAm6ucLm99J8Lqf7gQdBqu2KB6.jpg" group-title="BLINDSPOT (US)",BLINDSPOT (US) S03 E06
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/106591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEAL TEAM (US) S03 E16" tvg-logo="http://atrupo.com:7070/images/series/6G87yUclTDStX3ewxQbI9g7j7LP.jpg" group-title="SEAL TEAM (US)",SEAL TEAM (US) S03 E16
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/195876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAS CHICAS DEL CABLE (CABLE GIRLS) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkQsYmrCCo7mjJ3j2uClxfLDqvG.jpg" group-title="LAS CHICAS DEL CABLE (CABLE GIRLS)",LAS CHICAS DEL CABLE (CABLE GIRLS) S03 E04
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/82024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPRITS CRIMINELS (US) S07 E22" tvg-logo="https://image.tmdb.org/t/p/w185/lIwZBuClWdwEqd5rC36WrVmAiKQ.jpg" group-title="ESPRITS CRIMINELS (US)",ESPRITS CRIMINELS (US) S07 E22
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/222115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPRITS CRIMINELS (US) S13 E05" tvg-logo="https://image.tmdb.org/t/p/w185/pgQqCebZOk762ObXKE87KUCL7IE.jpg" group-title="ESPRITS CRIMINELS (US)",ESPRITS CRIMINELS (US) S13 E05
+http://vivapro.ddno.us:8080/series/1c:86:9a:5f:01:e7/Hp8cTF0QZiCn6M9/222237.mkv
